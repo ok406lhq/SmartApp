@@ -132,15 +132,13 @@ compile'com.kymjs.rxvolley:rxvolley:1.1.0'
 ```
 
 展示图如下：
-
-![](https://wx2.sinaimg.cn/mw690/7e86a892gy1fln7f655i2j20u01hcwgb.jpg)
-
-![](https://wx4.sinaimg.cn/mw690/7e86a892gy1fln7f5p847j20u01hc0tv.jpg)
-
-![](https://wx4.sinaimg.cn/mw690/7e86a892gy1fln930vpexj20u01hcgoy.jpg)
-
-![](https://wx4.sinaimg.cn/mw690/7e86a892gy1fln930yvrfj20u01hcwhp.jpg)
-
-![](https://wx3.sinaimg.cn/mw690/7e86a892gy1fln931enjbj20u01hcaex.jpg)
-
-![](https://wx2.sinaimg.cn/mw690/7e86a892gy1fln930kqc1j20u01hcac6.jpg)
+<div align="center">
+    <img width="280" height="497" src="https://wx2.sinaimg.cn/mw690/7e86a892gy1fln7f655i2j20u01hcwgb.jpg"/>
+    <img width="280" height="497" src="https://wx4.sinaimg.cn/mw690/7e86a892gy1fln7f5p847j20u01hc0tv.jpg"/>
+    <img width="280" height="497" src="https://wx4.sinaimg.cn/mw690/7e86a892gy1fln930vpexj20u01hcgoy.jpg"/>
+  </div>
+  <div align="center">
+    <img width="280" height="497" src="https://wx4.sinaimg.cn/mw690/7e86a892gy1fln930yvrfj20u01hcwhp.jpg"/>
+    <img width="280" height="497" src="https://wx3.sinaimg.cn/mw690/7e86a892gy1fln931enjbj20u01hcaex.jpg"/>
+    <img width="280" height="497" src="https://wx2.sinaimg.cn/mw690/7e86a892gy1fln930kqc1j20u01hcac6.jpg"/>
+  </div>
